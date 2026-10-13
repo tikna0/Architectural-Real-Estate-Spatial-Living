@@ -1,6 +1,6 @@
 # PixelRooms — Architectural Real Estate & Spatial Living
 
-An Apple-inspired real estate platform for architectural residences. Instead of flat photo galleries, you explore rooms through an interactive spatial viewer with draggable panning, lighting moods, and material hotspots, then compare homes, check the neighborhood, and simulate the mortgage, all in one fluid single-page app.
+An real estate platform for architectural residences. Instead of flat photo galleries, you explore rooms through an interactive spatial viewer with draggable panning, lighting moods, and material hotspots, then compare homes, check the neighborhood, and simulate the mortgage, all in one fluid single-page app.
 
 > Listings, prices, and architect names in this repo are **sample data** for demonstration.
 
