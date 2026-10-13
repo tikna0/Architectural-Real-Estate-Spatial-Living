@@ -1,0 +1,6 @@
+{
+  "name": "PixelRooms",
+  "description": "Apple-inspired fluid real estate platform with interactive spatial room tours, architectural curation, and physical spring-driven interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
